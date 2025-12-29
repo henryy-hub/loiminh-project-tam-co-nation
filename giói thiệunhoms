@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+</head>
+<body>
+    <h2>Giới thiệu bản thân</h2>
+    <p>Xin chào, mình tên là <strong>Lợi Gia Minh</strong>.</p>
+     <p>Xin chào, mình tên là <strong>Trần Gia Thịnh</strong>.</p>
+    <p>Chúng mình là học sinh và hiện đang học tại trường THPT Ngô Quyền.</p>
+    <p>Sở thích của Minh là học tin học, nghe nhạc và chơi thể thao.</p>
+     <p>Sở thích của Thịnh là học Toán, nghe nhạc và chơi thể thao.</p>
+    <p>Rất vui được làm quen với mọi người!</p>
+</body>
+</html>
